@@ -1,10 +1,10 @@
 # Probabilistic Machine Learning
 
 ## Main objective
+Benchmark a Variational Inference implementation against MCMC in estimating a posterior model, predictive
+performance and computational performance in terms of time.
 Since clinical data analyses commonly employ logistic regression, we chose this
 approach for comparative purposes.
-Benchmark a VI implementation against MCMC in estimating a posterior model, predictive
-performance and computational performance in terms of time.
 ## Dataset
 We analysed Type 2 Diabetes data. The response variable is “diagnosed type 2
 diabetes”. The predictors are all continuous variables (Pregnancies, Glucose,
